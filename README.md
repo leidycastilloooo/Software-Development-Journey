@@ -1,7 +1,8 @@
 # Software-Development-Journey 
 
 Willkommen in meinem Repository! Hier dokumentiere ich meine tägliche Arbeit auf meinem Asus A15 und meine Fortschritte als angehender Fachinformatiker.
-📂 Inhalt
+
+## 📂 Inhalt
 
 🎨 01-Frontend-CSS
 Technologien:HTML5, CSS3 (Flexbox & Grid).
