@@ -20,7 +20,7 @@ justify-content: center;
 ### justify-content: center: Zentriert die Elemente entlang der Hauptachse (hier vertikal).
 
 - Grid Garden
-![Garden](WhatsApp%20Image%202026-02-03%20at%208.07.13%20PM.jpeg)
+![Garden]([01-Frontend-CSS/garden.jpg))
 
 ## 🥕 Grid Garden (Level 28)
 Der Code:
