@@ -20,7 +20,7 @@ justify-content: center;
 ### justify-content: center: Zentriert die Elemente entlang der Hauptachse (hier vertikal).
 
 - Grid Garden
-![Garden]([01-Frontend-CSS/garden.jpg))
+![Garden](garden.jpg)
 
 ## 🥕 Grid Garden (Level 28)
 Der Code:
