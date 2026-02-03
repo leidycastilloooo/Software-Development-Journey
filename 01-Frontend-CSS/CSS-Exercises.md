@@ -5,7 +5,7 @@ Hier sind meine Zertifikate und Ergebnisse der CSS-Übungen.
 
 ## 🐸 Flexbox Froggy (Level 24)
 
-![Froggy](WhatsApp%20Image%202026-02-03%20at%208.02.26%20PM.jpeg)
+![Froggy](01-Frontend-CSS/WhatsApp Image 2026-02-03 at 8.02.26 PM.jpeg)
 
 ### Lösung:
 ```css
