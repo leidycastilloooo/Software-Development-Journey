@@ -11,3 +11,13 @@ In diesem Bereich dokumentiere ich meine Fortschritte in der Sprache Java. Java 
 * **Hardware:** Asus TUF Gaming A15
 * **IDE:** IntelliJ IDEA / VS Code
 * **JDK:** Java 17 oder höher
+
+### 🧮 Projekt: Mini-Rechner in Java
+Ich habe ein Programm entwickelt, das grundlegende mathematische Operationen durchführt.
+
+**Was dieses Programm zeigt:**
+* **Double-Datentyp:** Verwendung von Dezimalzahlen für präzisere Berechnungen.
+* **Arithmetische Operatoren:** Implementierung von `+`, `-`, `*` und `/`.
+* **Boolesche Logik:** Ein Vergleich (`>`), um zu prüfen, ob ein Wert eine bestimmte Bedingung erfüllt.
+
+> **Status:** Das Programm läuft erfolgreich und simuliert die Logik einer einfachen Taschenrechner-App.
