@@ -19,10 +19,9 @@ justify-content: center;
 ###  align-content: space-between: Verteilt den Platz zwischen den Zeilen gleichmäßig, sodass die erste und letzte Zeile an den Rändern liegen.
 ### justify-content: center: Zentriert die Elemente entlang der Hauptachse (hier vertikal).
 
-- Grid Garden
+## 🥕 Grid Garden (Level 28)
 ![Garden](garden.jpg)
 
-## 🥕 Grid Garden (Level 28)
 Der Code:
 CSS
 ```grid-template: 1fr 50px / 1fr 4fr;```
