@@ -1,14 +1,16 @@
-/**
- * Mein erstes Java-Programm.
- * Ziel: Grundlegende Syntax und Systemausgabe verstehen.
- */
+# Java Grundlagen ☕
+
+Hier ist mein erster Java-Code. Ich lerne die Struktur von Klassen und Methoden.
+
+### Mein erstes Programm: Main.java
+
+```java
 public class Main {
     public static void main(String[] args) {
-        // Ausgabe in der Konsole
-        System.out.println("Hallo Welt! Ich lerne Java auf meinem Asus A15.");
+        // Das ist eine Konsolenausgabe
+        System.out.println("Hallo Welt!");
         
-        // Ein einfaches Beispiel für Variablen
-        int stundenGelernt = 1;
-        System.out.println("Heute habe ich schon " + stundenGelernt + " Stunde gelernt.");
+        int motivation = 100;
+        System.out.println("Meine Motivation ist bei " + motivation + "%");
     }
 }
