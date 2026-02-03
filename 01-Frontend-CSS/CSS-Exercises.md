@@ -5,7 +5,7 @@ Hier sind meine Zertifikate und Ergebnisse der CSS-Übungen.
 
 ## 🐸 Flexbox Froggy (Level 24)
 
-![Froggy](main/01-Frontend-CSS/froggy.jpg)
+![Froggy](froggy.jpg)
 
 ### Lösung:
 ```css
