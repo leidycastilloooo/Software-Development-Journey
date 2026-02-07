@@ -1,1 +1,24 @@
-00-Harvard-CS50/README.md
+# 🎓 Harvard CS50x - Introduction to Computer Science
+Dieses Verzeichnis dokumentiert meine Reise durch den CS50-Kurs der Harvard University (Version 2026).
+
+## 🚀 Woche 0: Scratch (Algorithmen & Logik)
+
+In dieser Woche habe ich gelernt, dass Informatik nicht nur aus Programmieren besteht, sondern aus **Problemlösung**. 
+
+### Wichtige Konzepte (Einfach erklärt):
+
+* **Algorithmus:** Eine präzise Schritt-für-Schritt-Anleitung zur Lösung eines Problems. (Input -> Algorithmus -> Output).
+* **Binärsystem (Binary):** Wie Computer zählen. Sie benutzen nur `0` und `1` (Schalter: An/Aus).
+* **ASCII & Unicode:** Die "Übersetzungstabelle", mit der Computer Zahlen in Buchstaben oder Emojis verwandeln.
+
+---
+
+### 🧱 Programmierung-Bausteine in Scratch:
+
+1.  **Functions (Funktionen):** Das sind die Verben (Aktionen). In Scratch sind das die Blöcke wie "gehe zu" oder "sage".
+2.  **Loops (Schleifen):** Blöcke, die Aktionen wiederholen (z. B. "wiederhole fortlaufend"). Das macht den Code effizient.
+3.  **Conditions (Bedingungen):** Entscheidungen im Code. "WENN die Katze den Hund berührt, DANN sage 'Miau'".
+4.  **Boolean Expressions:** Fragen, die nur mit **WAHR** oder **FALSCH** beantwortet werden können (z. B. "Berühre ich die Wand?").
+5.  **Variables (Variablen):** Container, die Informationen speichern, wie zum Beispiel den Punktestand (Score) in einem Spiel.
+
+---
