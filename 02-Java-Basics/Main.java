@@ -1,28 +1,41 @@
+import java.util.Scanner; // Importamos la herramienta para leer el teclado
+
 public class Main {
     public static void main(String[] args) {
-        // Eingabewerte (Simulierte Eingabe)
-        double zahl1 = 50.5;
-        double zahl2 = 10.0;
-        
-        // Berechnungen
+        // Creamos el "Scanner" para leer la entrada del usuario
+        Scanner input = new Scanner(System.in);
+
+        System.out.println("--- 🚀 Mein Java-Rechner (Pro-Version) ---");
+
+        // Pedir el primer número
+        System.out.print("Gib die erste Zahl ein: ");
+        double zahl1 = input.nextDouble();
+
+        // Pedir el segundo número
+        System.out.print("Gib die zweite Zahl ein: ");
+        double zahl2 = input.nextDouble();
+
+        // Operaciones
         double summe = zahl1 + zahl2;
         double differenz = zahl1 - zahl2;
         double produkt = zahl1 * zahl2;
-        double quotient = zahl1 / zahl2;
-        
-        // Ausgabe des "Rechners"
-        System.out.println("--- Java Mini-Rechner ---");
-        System.out.println("Zahl 1: " + zahl1);
-        System.out.println("Zahl 2: " + zahl2);
+
+        // Mostrar resultados
+        System.out.println("\n--- Ergebnisse ---");
+        System.out.println("Addition: " + summe);
+        System.out.println("Subtraktion: " + differenz);
+        System.out.println("Multiplikation: " + produkt);
+
+        // Lógica de comparación (como en Scratch)
+        if (summe > 100) {
+            System.out.println("💡 Hinweis: Die Summe ist groesser als 100!");
+        } else {
+            System.out.println("💡 Hinweis: Die Summe ist 100 oder weniger.");
+        }
+
         System.out.println("-------------------------");
-        System.out.println("Addition (+):       " + summe);
-        System.out.println("Subtraktion (-):    " + differenz);
-        System.out.println("Multiplikation (*): " + produkt);
-        System.out.println("Division (/):       " + quotient);
-        System.out.println("-------------------------");
         
-        // Logik-Check: Ist die Summe größer als 100?
-        boolean istGross = summe > 100;
-        System.out.println("Ist das Ergebnis groesser als 100? " + istGross);
+        // Es importante cerrar el Scanner al final
+        input.close();
     }
 }
