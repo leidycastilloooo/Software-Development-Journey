@@ -20,3 +20,13 @@ Nachdem ich die Grundlagen der Programmierung in **Java** und durch den **Harvar
 * **Problemlösung:** Übersetzung von Geschäftsanforderungen in funktionale Algorithmen.
 * **UX/UI-Verständnis:** Erstellung einer sauberen, intuitiven Schnittstelle für den Endnutzer.
 * **Autodidaktik:** Eigenständige Erarbeitung der JavaScript-Syntax basierend auf Java-Grundkenntnissen.
+
+### 🕹️ Live Demo & Testanleitung
+Sie können das Modul direkt im Browser testen:
+
+1. **Öffnen Sie den Link:** [Hier klicken, um die Live-Demo zu starten](https://leidycastilloooo.github.io/Software-Development-Journey/03-Ecom-Logic-Web/)
+2. **Geben Sie einen Preis ein:** z.B. `120`
+3. **Testen Sie die Rabattcodes:**
+   * Geben Sie `PROMO10` ein für 10% Rabatt.
+   * Geben Sie `FREESHIP` ein für kostenlosen Versand.
+4. **Klicken Sie auf "Preis berechnen":** Die Kalkulation erscheint sofort unter dem Button.
