@@ -15,6 +15,13 @@ Fokus: Variablen, Schleifen und Kontrollstrukturen. ⏳
 🎓 03-Harvard-CS50
 Status:Aktuell im Kurs der Harvard University.
 Sprachen: Scratch, C, Python und SQL. 👨‍💻
+### 💼 Berufserfahrung & Projekte
+
+Bevor ich mit der Softwareentwicklung begann, habe ich aktiv im E-Commerce-Bereich gearbeitet:
+
+* **Shopify & PageFly Expertin:** Erstellung von hochkonvertierenden Landingpages und kompletten Online-Shops in Kolumbien.
+* **UI/UX Verständnis:** Tiefes Verständnis für Design-Strukturen und Benutzerführung.
+* **Warum Informatik?** Ich möchte nicht nur Tools nutzen (PageFly), sondern die Technologien dahinter (Java, JavaScript, SQL) von Grund auf verstehen und selbst entwickeln.
 
 ---
 
