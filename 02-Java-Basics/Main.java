@@ -1,32 +1,32 @@
-import java.util.Scanner; // Importamos la herramienta para leer el teclado
+import java.util.Scanner; // Importiert die Scanner-Klasse für Benutzereingaben
 
 public class Main {
     public static void main(String[] args) {
-        // Creamos el "Scanner" para leer la entrada del usuario
+        // Scanner-Objekt erstellen
         Scanner input = new Scanner(System.in);
 
         System.out.println("--- 🚀 Mein Java-Rechner (Pro-Version) ---");
 
-        // Pedir el primer número
+        // Erste Zahl abfragen
         System.out.print("Gib die erste Zahl ein: ");
         double zahl1 = input.nextDouble();
 
-        // Pedir el segundo número
+        // Zweite Zahl abfragen
         System.out.print("Gib die zweite Zahl ein: ");
         double zahl2 = input.nextDouble();
 
-        // Operaciones
+        // Mathematische Operationen
         double summe = zahl1 + zahl2;
         double differenz = zahl1 - zahl2;
         double produkt = zahl1 * zahl2;
 
-        // Mostrar resultados
+        // Ausgabe der Ergebnisse
         System.out.println("\n--- Ergebnisse ---");
-        System.out.println("Addition: " + summe);
-        System.out.println("Subtraktion: " + differenz);
-        System.out.println("Multiplikation: " + produkt);
+        System.out.println("Summe (Addition):       " + summe);
+        System.out.println("Differenz (Subtraktion): " + differenz);
+        System.out.println("Produkt (Multiplikation): " + produkt);
 
-        // Lógica de comparación (como en Scratch)
+        // Logik-Prüfung (wie in Scratch)
         if (summe > 100) {
             System.out.println("💡 Hinweis: Die Summe ist groesser als 100!");
         } else {
@@ -35,7 +35,7 @@ public class Main {
 
         System.out.println("-------------------------");
         
-        // Es importante cerrar el Scanner al final
+        // Scanner schließen
         input.close();
     }
 }
