@@ -21,3 +21,10 @@ Ich habe ein Programm entwickelt, das grundlegende mathematische Operationen dur
 * **Boolesche Logik:** Ein Vergleich (`>`), um zu prüfen, ob ein Wert eine bestimmte Bedingung erfüllt.
 
 > **Status:** Das Programm läuft erfolgreich und simuliert die Logik einer einfachen Taschenrechner-App.
+## 📚 Lernquellen
+
+Dieses Modul ist Teil meines Selbststudiums in der Softwareentwicklung. Ich lerne die Grundlagen von Java durch:
+
+* **Kurs:** [Name des Kurses, z. B. Java Programmierung für Anfänger]
+* **Plattform:** [z. B. Programmieren StartenYouTube-Kanal]
+* **Methodik:** Die Logik basiert auf den Konzepten des **Harvard CS50** Kurses (Woche 0), die ich nun eigenständig in Java übersetze und implementiere.
