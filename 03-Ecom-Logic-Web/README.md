@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Logic Module (HTML/JS)
-
+---
 ### 📋 Projektbeschreibung
 Dieses Projekt markiert einen wichtigen Meilenstein in meiner Entwicklung als Softwareentwicklerin. Hier verbinde ich meine fundierten praktischen Erfahrungen im **E-Commerce-Bereich** mit modernen Web-Technologien. 
 
