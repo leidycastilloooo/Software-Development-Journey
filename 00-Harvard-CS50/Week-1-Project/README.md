@@ -39,7 +39,10 @@ Ein Programm, das berechnet, wie viele Münzen für ein Wechselgeld benötigt we
 * **Wichtig:** Umgang mit **Floating-Point Imprecision** (Gleitkomma-Ungenauigkeit).
 
 ---
-
+### 3. Eigenes Projekt: Logik-Erweiterung (In Arbeit 🛠️)
+Basierend auf der Mario-Aufgabe entwickle ich aktuell eine eigene Variante, die über die Standard-Pyramide hinausgeht. 
+* **Ziel:** Anwendung von verschachtelten Schleifen auf komplexere Muster.
+* **Fokus:** Vertiefung der Logik hinter Zeilen- und Spalten-Interaktionen in C, um dynamischere Strukturen im Terminal zu erzeugen.
 ## 🚀 Ausführung der Programme
 
 Um eines der Programme lokal zu testen, verwende die folgenden Befehle im Terminal:
