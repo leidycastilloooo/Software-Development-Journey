@@ -46,7 +46,10 @@ Basierend auf der Mario-Aufgabe entwickle ich aktuell eine eigene Variante, die 
 ## 🚀 Ausführung der Programme
 
 Um eines der Programme lokal zu testen, verwende die folgenden Befehle im Terminal:
-
+### 🏎️ Eigenes Projekt: Rennsimulation
+In dieser Woche habe ich die gelernten Konzepte auf ein eigenes Projekt angewendet:
+* **Datei:** [CarRace_Week1.c](./Rennsimulation-Logik.c)
+* **Logik:** Verwendung von `for`-Schleifen, um die Rennstrecke und die Position des Autos zu visualisieren.
 1. Kompilieren:
    ```bash
    make dateiname
